@@ -1,2 +1,2 @@
-# C-
+# C ++ ;
 Códigos  da linguagem C
